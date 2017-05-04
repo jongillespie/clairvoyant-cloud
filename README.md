@@ -1,18 +1,34 @@
-# clairvoyant-cloud
+# clairvoyant-cloud  
 
+The Clairvoyant Cloud is an IOT swag lamp that retrieves weather data from the Open Weather Network and displays a matching colour.
 
+Additionally, the cloud is controlled via the Blynk iOS App and has additional lighting modes of RBG Selection and Party (Disco).
 
-https://www.tutorialspoint.com/c_standard_library/
-https://openweathermap.org/forecast5
-http://openweathermap.org/appid
+## Technology & Hardware Utilised
 
+- Arduino Pro Mini
+- Sparkfun Thing Dev
+- Solderable Breadboard 
+- 1000μF Capacitor
+- 330Ω Resistor
+- 5v6A Power Supply
+- 120 Addressable RGB LEDs (2x 1m Strips of 60LEDs)
 
+## Resources & Journey
 
+The original idea for a cloud lamp was from seeing the Artist: Richard Clarckson's version that contained speakers and lit up to match the sounds of thunder from within. 
 
-http://www.unixtimestamp.com/
+I wanted to create something similar but wondered if the cloud could instead display the weather through an API. 
 
-What is the unix time stamp?
-The unix time stamp is a way to track time as a running total of seconds. This count starts at the Unix Epoch on January 1st, 1970 at UTC. Therefore, the unix time stamp is merely the number of seconds between a particular date and the Unix Epoch. It should also be pointed out (thanks to the comments from visitors to this site) that this point in time technically does not change no matter where you are located on the globe. This is very useful to computer systems for tracking and sorting dated information in dynamic and distributed applications both online and client side.
+Just my luck, as it was quite complicated for green electronics / coding student I found SparkFun had created almost exactly what I wanted to acheive. Their project can be viewed [here](https://learn.sparkfun.com/tutorials/led-cloud-connected-cloud).
 
-What happens on January 19, 2038?
-On this date the Unix Time Stamp will cease to work due to a 32-bit overflow. Before this moment millions of applications will need to either adopt a new convention for time stamps or be migrated to 64-bit systems which will buy the time stamp a "bit" more time.
+I set to work creating their version of the cloud and refactored the code as I went. Unravling each block and tweaking it to conform to my particular hardware and LED spec. 
+
+Here are a few photos of my journey through the process of shopping, configuring, coding, testing and soldering. (In reverse cronological order)
+
+### Shopping
+
+![Blue Sky Test](https://github.com/clairvoyant-cloud/docs/progress-photos/bluesky2.JPG)
+[[https://github.com/clairvoyant-cloud/docs/progress-photos/bluesky2.JPG]]
+[[https://github.com/clairvoyant-cloud/docs/progress-photos/blynkTestDay.PNG]]
+
