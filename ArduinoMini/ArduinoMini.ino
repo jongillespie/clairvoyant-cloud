@@ -1,7 +1,6 @@
 /**
  * 
  * Refactored by: Jonathan Gillespie
- * WIT: 20074879
  * For: Calirvoyant Cloud IOT Project
  * 
  * Original Base Code: 'CloudCloud'
