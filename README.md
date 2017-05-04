@@ -16,13 +16,14 @@ Additionally, the cloud is controlled via the Blynk iOS App and has additional l
 
 ## Resources & Journey
 
-The original idea for a cloud lamp was from seeing the Artist: Richard Clarckson's version that contained speakers and lit up to match the sounds of thunder from within. 
+The original idea for a cloud lamp was from seeing the Artist: Richard Clarkson's version that contained speakers and lit up to match the sounds of thunder coming from within. 
 
 I wanted to create something similar but wondered if the cloud could instead display the weather through an API. 
 
-Just my luck, as it was quite complicated for green electronics / coding student I found SparkFun had created almost exactly what I wanted to acheive. Their project can be viewed [here](https://learn.sparkfun.com/tutorials/led-cloud-connected-cloud).
+Just my luck, as it was quite complicated for a pretty green electronics / coding student I found SparkFun had created almost exactly what I wanted to acheive. Their project can be viewed [here](https://learn.sparkfun.com/tutorials/led-cloud-connected-cloud).
 
 I set to work creating their version of the cloud and refactored the code as I went. Unravling each block and tweaking it to conform to my particular hardware and LED spec. 
 
-My journey was a lengthy one through the process of purchasing equipment/materials, configuring hardware, coding, testing and soldering.
-I still have a few things I want to change/add to this project - and even though it was a little complicated for a beginner, I would recommend it to anyone who wants to tinker with electornics, code and smart lighting that are willing to jump in the deep end. The learning curve was steep but well worth it.  -JG
+My journey was a lengthy one, through the process of purchasing equipment/materials, configuring hardware, coding, testing, soldering and some art & craft.
+I still have a few things I want to change/add to this project, but am very happy with the result! It works :)
+Even though I found it a little complicated for a beginner, I would recommend it to anyone who wants to tinker with electornics, code and create smart lighting - that are also, willing to jump in the deep end. The learning curve was steep but well worth it.  -JG
