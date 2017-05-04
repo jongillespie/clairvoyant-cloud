@@ -28,6 +28,8 @@ Here are a few photos of my journey through the process of shopping, configuring
 
 ### Shopping
 
+https://github.com/J-Boz/clairvoyant-cloud/blob/master/docs/progress-photos/bluesky2.JPG
+
 ![Blue Sky Test](https://github.com/clairvoyant-cloud/docs/progress-photos/bluesky2.JPG)
 [[https://github.com/clairvoyant-cloud/docs/progress-photos/bluesky2.JPG]]
 [[https://github.com/clairvoyant-cloud/docs/progress-photos/blynkTestDay.PNG]]
