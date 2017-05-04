@@ -24,16 +24,5 @@ Just my luck, as it was quite complicated for green electronics / coding student
 
 I set to work creating their version of the cloud and refactored the code as I went. Unravling each block and tweaking it to conform to my particular hardware and LED spec. 
 
-Here are a few photos of my journey through the process of shopping, configuring, coding, testing and soldering. (In reverse cronological order)
-
-### Shopping
-
-![final](https://github.com/J-Boz/clairvoyant-cloud/blob/master/docs/progress-photos/bluesky2.JPG)
-
-
-![test](clairvoyant-cloud/docs/progress-photos/bluesky2.JPG)
-
-![Blue Sky Test](https://github.com/clairvoyant-cloud/docs/progress-photos/bluesky2.JPG)
-[[https://github.com/clairvoyant-cloud/docs/progress-photos/bluesky2.JPG]]
-[[https://github.com/clairvoyant-cloud/docs/progress-photos/blynkTestDay.PNG]]
-
+My journey was a lengthy one through the process of purchasing equipment/materials, configuring hardware, coding, testing and soldering.
+I still have a few things I want to change/add to this project - and even though it was a little complicated for a beginner, I would recommend it to anyone who wants to tinker with electornics, code and smart lighting that are willing to jump in the deep end. The learning curve was steep but well worth it.  -JG
